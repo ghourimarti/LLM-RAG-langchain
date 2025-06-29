@@ -185,3 +185,4 @@ docs/docs/templates
 prof
 virtualenv/
 lang-graph/
+cookbook/token.env
